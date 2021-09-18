@@ -1,5 +1,5 @@
 # Kc_house_analysis_price_prediction
-Salah satu tujuan notebook ini adalah untuk **menunjukkan langkah demi langkah cara menganalisis dan memvisualisasikan kumpulan data untuk memprediksi harga rumah di masa mendatang.** Selain itu, kami akan menjelaskan sebagian besar konsep yang digunakan agar Anda memahami mengapa kami sedang menggunakan mereka.
+Salah satu tujuan notebook ini adalah untuk **menunjukkan langkah demi langkah cara menganalisis dan memvisualisasikan kumpulan data untuk memprediksi harga rumah di masa mendatang.** Selain itu, saya akan menjelaskan sebagian besar konsep yang digunakan agar kita memahami mengapa suatu model atau metrik tersebut digunakan.
 Berdasarkan fitur-fitur seperti sqft_living, kamar mandi, kamar tidur, pemandangan, dan lainnya, kami akan membangun model pembelajaran mendalam yang dapat memprediksi harga rumah di masa mendatang.
 Jika Anda memiliki pertanyaan atau umpan balik, jangan ragu untuk menulis dan jika Anda menyukai kernel ini,<b><font color='green'> mohon upvote! </font></b>
 
